@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mailbridgeapi/mailbridgeapi/main/assets/logo-mark.png" alt="MailBridgeAPI logo" width="112">
+</p>
+
 # MailBridgeAPI for Python
 
 Official dependency-free Python client for all public MailBridgeAPI endpoints.
